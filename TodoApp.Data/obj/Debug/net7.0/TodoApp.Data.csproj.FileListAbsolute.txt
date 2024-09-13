@@ -1,0 +1,17 @@
+C:\azure\TodoApp.Data\bin\Debug\net7.0\TodoApp.Data.deps.json
+C:\azure\TodoApp.Data\bin\Debug\net7.0\TodoApp.Data.runtimeconfig.json
+C:\azure\TodoApp.Data\bin\Debug\net7.0\TodoApp.Data.dll
+C:\azure\TodoApp.Data\bin\Debug\net7.0\TodoApp.Data.pdb
+C:\azure\TodoApp.Data\bin\Debug\net7.0\TodoApp.Core.dll
+C:\azure\TodoApp.Data\bin\Debug\net7.0\TodoApp.Core.pdb
+C:\azure\TodoApp.Data\obj\Debug\net7.0\TodoApp.Data.csproj.AssemblyReference.cache
+C:\azure\TodoApp.Data\obj\Debug\net7.0\TodoApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\azure\TodoApp.Data\obj\Debug\net7.0\TodoApp.Data.AssemblyInfoInputs.cache
+C:\azure\TodoApp.Data\obj\Debug\net7.0\TodoApp.Data.AssemblyInfo.cs
+C:\azure\TodoApp.Data\obj\Debug\net7.0\TodoApp.Data.csproj.CoreCompileInputs.cache
+C:\azure\TodoApp.Data\obj\Debug\net7.0\TodoApp..04C6B052.Up2Date
+C:\azure\TodoApp.Data\obj\Debug\net7.0\TodoApp.Data.dll
+C:\azure\TodoApp.Data\obj\Debug\net7.0\refint\TodoApp.Data.dll
+C:\azure\TodoApp.Data\obj\Debug\net7.0\TodoApp.Data.pdb
+C:\azure\TodoApp.Data\obj\Debug\net7.0\TodoApp.Data.genruntimeconfig.cache
+C:\azure\TodoApp.Data\obj\Debug\net7.0\ref\TodoApp.Data.dll

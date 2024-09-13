@@ -1,0 +1,15 @@
+C:\azure\TodoApp.Service\bin\Debug\net7.0\TodoApp.Service.deps.json
+C:\azure\TodoApp.Service\bin\Debug\net7.0\TodoApp.Service.dll
+C:\azure\TodoApp.Service\bin\Debug\net7.0\TodoApp.Service.pdb
+C:\azure\TodoApp.Service\bin\Debug\net7.0\TodoApp.Core.dll
+C:\azure\TodoApp.Service\bin\Debug\net7.0\TodoApp.Core.pdb
+C:\azure\TodoApp.Service\obj\Debug\net7.0\TodoApp.Service.csproj.AssemblyReference.cache
+C:\azure\TodoApp.Service\obj\Debug\net7.0\TodoApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\azure\TodoApp.Service\obj\Debug\net7.0\TodoApp.Service.AssemblyInfoInputs.cache
+C:\azure\TodoApp.Service\obj\Debug\net7.0\TodoApp.Service.AssemblyInfo.cs
+C:\azure\TodoApp.Service\obj\Debug\net7.0\TodoApp.Service.csproj.CoreCompileInputs.cache
+C:\azure\TodoApp.Service\obj\Debug\net7.0\TodoApp..658A9834.Up2Date
+C:\azure\TodoApp.Service\obj\Debug\net7.0\TodoApp.Service.dll
+C:\azure\TodoApp.Service\obj\Debug\net7.0\refint\TodoApp.Service.dll
+C:\azure\TodoApp.Service\obj\Debug\net7.0\TodoApp.Service.pdb
+C:\azure\TodoApp.Service\obj\Debug\net7.0\ref\TodoApp.Service.dll
